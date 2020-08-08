@@ -22,7 +22,8 @@ yarn dev
 Navigate to [http://localhost:4200/myapp/](http://localhost:4200/myapp/). You should see your app running.
 
 This App has two routes
- [http://localhost:4200/myapp/about](http://localhost:4200/myapp/about)
+
+[http://localhost:4200/myapp/about](http://localhost:4200/myapp/about)
 
 [http://localhost:4200/myapp/faq](http://localhost:4200/myapp/faq)
 
