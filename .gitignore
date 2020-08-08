@@ -1,0 +1,4 @@
+src/generated_routes
+public/myapp/*.js
+public/myapp/bundle.css
+node_modules
