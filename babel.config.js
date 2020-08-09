@@ -10,14 +10,5 @@ module.exports = {
 		  useBuiltIns: "usage",
 		  corejs: 3
 	  }]
-	],
-	// plugins: [
-	// 	"@babel/plugin-syntax-dynamic-import",
-	// 	[
-	// 		"@babel/plugin-transform-runtime",
-	// 		{
-	// 			useESModules: true
-	// 		}
-	// 	]
-	// ]
+	]
 };
