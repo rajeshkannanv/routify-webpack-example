@@ -32,7 +32,8 @@
 	"peerDependencies": {
 		"svelte": "^3.22.3"
 	},
-	"license": "UNLICENSED",
+	"license": "MIT",
+	"author": "rajeshkannanv",
 	"dependencies": {
 		"babel-loader": "^8.1.0",
 		"core-js": "^3.2.1"
